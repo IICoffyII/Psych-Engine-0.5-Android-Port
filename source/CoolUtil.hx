@@ -17,9 +17,31 @@ using StringTools;
 class CoolUtil
 {
 	public static var defaultDifficulties:Array<String> = [
+		'Noob',
 		'Easy',
 		'Normal',
 		'Hard'
+		'Expert',
+		'Insane',
+		'Alt',
+		'Hell',
+		'Easier',
+		'Standard',
+		'Flip',
+		'Chill',
+		'Basic',
+		'Neo',
+		'Canon',
+		'Vibin',
+		'Casual',
+		'Deluxe',
+		'6K',
+		'7K',
+		'9K',
+		'Unfair',
+		'Fucked',
+		'Favorite',
+		'Boss'
 	];
 	public static var defaultDifficulty:String = 'Normal'; //The chart that has no suffix and starting difficulty on Freeplay/Story Mode
 
